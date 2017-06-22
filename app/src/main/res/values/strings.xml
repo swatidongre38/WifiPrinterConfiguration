@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AEMWifiPrinterDemo</string>
+    <string name="text_aem_wifi_printer">AEMWifi</string>
+    <string name="toast_printer_no_connection">Printer is not connected</string>
+    <string name="toast_printer_connection">Printer Connected</string>
+    <string name="text_disconnect">Disconnect</string>
+    <string name="toast_try_again">Please try again...</string>
+    <string name="alert_ok">OK</string>
+    <string name="text_connect">Connect</string>
+    <string name="alert_disconnect">Disconnected</string>
+    <string name="toast_enter_ip_address">Please enter ip address...</string>
+</resources>
